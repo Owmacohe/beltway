@@ -6,3 +6,5 @@
 The culture of The Beltway is one that consists of perpetual travel, punctuated by encounters with others on the road, nightly stops, the dangers of the forest, and other chance occurrences. Groups tend to be way of each other, but ultimately face the unnatural danger that is The Veering and its consequences.
 
 *Many thanks to Timothy Hellum, with whom I developed the original ideas for the setting one day during an 8,000+ kilometer road trip in Summer 2023.*
+
+***Beltway** uses the [Pantry wiki system](https://github.com/owmacohe/pantry) to display its articles. Consider trying it out yourself!*
