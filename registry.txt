@@ -23,7 +23,6 @@ Beasts
 rules
 Characters
 Vehicles
-Exhaustion
 Trade
 Weather
 

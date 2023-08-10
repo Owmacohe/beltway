@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca0e508f-af3d-461e-8e35-6aef843fb531" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/beltway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/beltway.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/convert.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/convert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/tags.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/tags.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Characters.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Characters.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Exhaustion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/The Veering.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/The Veering.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/rules.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registry.txt" beforeDir="false" afterPath="$PROJECT_DIR$/registry.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/utilities.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/utilities.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,26 +24,32 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="2SlhqRXowBtXSnotd1NEH1trdp0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ohellum/Documents/GitHub/beltway&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/Users/ohellum/Documents/GitHub/beltway",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +75,10 @@
       <workItem from="1691110482530" duration="54000" />
       <workItem from="1691259901568" duration="1445000" />
       <workItem from="1691526859528" duration="3000" />
-      <workItem from="1691605608798" duration="2953000" />
+      <workItem from="1691605608798" duration="3737000" />
+      <workItem from="1691610151344" duration="4000" />
+      <workItem from="1691680029734" duration="905000" />
+      <workItem from="1691686197115" duration="3794000" />
     </task>
     <servers />
   </component>
