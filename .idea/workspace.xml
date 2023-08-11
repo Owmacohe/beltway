@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca0e508f-af3d-461e-8e35-6aef843fb531" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/logo.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/logo_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/logo_transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/logo_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/scratched_paint.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Characters.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Characters.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Exhaustion.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/The Veering.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/The Veering.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/rules.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registry.txt" beforeDir="false" afterPath="$PROJECT_DIR$/registry.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/utilities.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/utilities.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,17 +29,21 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
   <component name="ProjectId" id="2SlhqRXowBtXSnotd1NEH1trdp0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -50,6 +59,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owen Hellum\Documents\GitHub\beltway\logo" />
+      <recent name="C:\Users\Owen Hellum\Documents\GitHub\beltway" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,10 +94,14 @@
       <workItem from="1691610151344" duration="4000" />
       <workItem from="1691680029734" duration="905000" />
       <workItem from="1691686197115" duration="3794000" />
+      <workItem from="1691772714568" duration="1736000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
