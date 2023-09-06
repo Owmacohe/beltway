@@ -24,7 +24,6 @@ rules
 Characters
 Vehicles
 Trade
-Weather
 
 buildings
 Gas stations

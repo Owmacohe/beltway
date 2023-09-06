@@ -27,14 +27,14 @@ On top of your rolls for each **statistic**, each [race|races] gets certain addi
 
 ## Wounds
 
-**Beltway** has no statistic for 'hit points', and instead employs a wound system. At your **TC**'s discretion, characters may receive **temporary** or **permanent** wounds as the result of fights, falls, [vehicle|Vehicle] crashes, etc. These wounds may impact any of your **statistics**, only certain skill checks, something else entirely, or nothing at all. Here are a few examples:
+**Beltway** has no statistic for 'hit points', and instead employs a **wound** system. At your **TC**'s discretion, characters may receive **temporary** or **permanent** **wounds** as the result of fights, falls, [vehicle|Vehicle] crashes, etc. These **wounds** may impact any of your **statistics**, only certain skill checks, something else entirely, or nothing at all. Here are a few examples:
 
 - A broken leg makes it harder to run, and you walk with a limp
 - A deep cut on your hand is sore, and will leave a scar
 - Head trauma makes it hard to look at bright lights for a few days, and will make you forgetful later in life
 - Long exposure to gasoline fumes might temporarily make you sick
 
-After a significant number of wounds, your **TC** may indicate that your character is some number of wounds away from death, usually between 1-3.
+After a significant number of **wounds**, your **TC** may indicate that your character is some number of **wounds** away from death, usually between 1-3.
 
 ---
 
@@ -42,9 +42,9 @@ After a significant number of wounds, your **TC** may indicate that your charact
 
 Finally, your character has a level of **exhaustion**. This score increases and decreases over time, usually at the discretion of your **TC**. Some examples may include:
 
-- A particularly stressful standoff between your party and the proprietor of a [building|buildings] might result in everyone getting a 1/2 point of **exhaustion**.
-- Staying up at night *(e.g. to watch for [Beasts] when stranded at the side of [The Beltway])* results in 1 point of **exhaustion** per three hours.
-- Driving a [vehicle|Vehicles] results in 1 point of exhaustion per four hours (this is compounded with the above increase when driving at night).
+- A particularly stressful standoff between your party and the proprietor of a [building|buildings] might result in everyone getting 1-3 points of **exhaustion**.
+- Staying up at night *(e.g. to watch for [Beasts] when stranded at the side of [The Beltway])* results in 1 point of **exhaustion** every three hours.
+- Driving a [vehicle|Vehicles] results in 1 point of exhaustion every four hours *(this is compounded with the above increase when driving at night)*.
 - Hearing the call of a [Beast|Beasts] results in some amount of **exhaustion**:
    - 0 for [Orcs]
    - 1/2 for [Dwarves]

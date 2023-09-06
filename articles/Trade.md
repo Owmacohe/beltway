@@ -1,3 +1,4 @@
 # Trade
 
-{rules,todo}
+{rules}
+

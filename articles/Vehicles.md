@@ -2,7 +2,7 @@
 
 {rules}
 
-Vehicles are the gas-powered motor devices used by nearly all travellers to move down [The Beltway], and get between [buildings]. They are essential tools for transportation, storage, housing, and escape. Without vehicles, getting between [buildings] is practically impossible due to the dangers of [The Veering] along the road. Each [vehicle|Vehicles] used by the party must be driven by a member *(see the [Exhaustion] rules for more info)*.
+Vehicles are the gas-powered motor devices used by nearly all travellers to move down [The Beltway] and get between [buildings]. They are essential tools for transportation, storage, housing, and escape. Without vehicles, getting between [buildings] is practically impossible due to the dangers of [The Veering] along the road. Each [vehicle|Vehicles] used by the party must be driven by a member *(see the [Exhaustion] rules for more info)*.
 
 ## Statistics
 

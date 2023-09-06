@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca0e508f-af3d-461e-8e35-6aef843fb531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo/logo.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo/logo_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo/logo_transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo/logo_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo/profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo/scratched_paint.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/buildings.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Characters.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Characters.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Dialect Guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Dialect Guide.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/articles/Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Parkade.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Parkade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Trade.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Trade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Vehicles.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Vehicles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Wards.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Wards.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/Weather.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/religion.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/religion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registry.txt" beforeDir="false" afterPath="$PROJECT_DIR$/registry.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,24 +42,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/Users/ohellum/Documents/GitHub/beltway",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ohellum/Documents/GitHub/beltway&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Owen Hellum\Documents\GitHub\beltway\logo" />
@@ -95,6 +96,12 @@
       <workItem from="1691680029734" duration="905000" />
       <workItem from="1691686197115" duration="3794000" />
       <workItem from="1691772714568" duration="1736000" />
+      <workItem from="1691986941397" duration="136000" />
+      <workItem from="1692297932017" duration="2945000" />
+      <workItem from="1692900963156" duration="125000" />
+      <workItem from="1693060608755" duration="14000" />
+      <workItem from="1693159756245" duration="100000" />
+      <workItem from="1693939521487" duration="2516000" />
     </task>
     <servers />
   </component>
