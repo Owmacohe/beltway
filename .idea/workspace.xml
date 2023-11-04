@@ -5,19 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca0e508f-af3d-461e-8e35-6aef843fb531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/articles/buildings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/TAG playtest.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/logo.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/scratched_paint.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/articles/Characters.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Characters.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Dialect Guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Dialect Guide.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Parkade.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Parkade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/The Veering.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/The Veering.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/articles/Trade.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Trade.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/articles/Vehicles.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Vehicles.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Wards.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/Wards.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/Weather.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/religion.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/religion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/articles/rules.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/registry.txt" beforeDir="false" afterPath="$PROJECT_DIR$/registry.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +30,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: -1
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2SlhqRXowBtXSnotd1NEH1trdp0" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -102,6 +102,7 @@
       <workItem from="1693060608755" duration="14000" />
       <workItem from="1693159756245" duration="100000" />
       <workItem from="1693939521487" duration="2516000" />
+      <workItem from="1699111859838" duration="3924000" />
     </task>
     <servers />
   </component>
